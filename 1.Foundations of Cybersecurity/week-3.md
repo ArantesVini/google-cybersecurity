@@ -49,3 +49,11 @@ A voluntary framework that consists of standars, guidelines, and best pratices t
 _NIST_: National Institute of Standards and Technology
 
 # Ethics in cybersecuirty
+
+Security ethichs are guidelines for making appropriate decisions as as security professional.
+
+## Ethical principles in security
+
+- Confidentiality;
+- Privacy protections;
+- Laws.
