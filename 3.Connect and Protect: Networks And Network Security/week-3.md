@@ -50,3 +50,33 @@ To interpet a ouput of tcpdump you must go for the next:
 ![tcpdump_output](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/B-PaECh0ToSFgBWpFczYZg_4896abe8c06443f08eec4dc003dcf8f1_image.png?expiry=1691193600000&hmac=8XsCvqbF8pBRQDdyC-IP0aV_My31XW5LKMV6UBckXY4)
 
 # Network attack tatics and defense
+
+## Passive packet sniffing
+
+A type of attack where data packets are read in transit.
+
+## Active packet sniffing
+
+A type of attack where data packets are manipulated in transit.
+
+## Observation about defense
+
+If you use a VPN your data can also be manipulated but cannot be read, because is encoded.
+
+## IP Spoofing
+
+A network attack performed when an ttacker changes the source IP of a data packet to impersonate an authorized system and gain acces to a network.
+
+## Common IP spoofing attacks
+
+### On-path attack
+
+An attack where a malicious actor places themselver in the middle of an authorized connection and intercepts or alters the data in transit.
+
+## Replay attack
+
+A network attack performed when a malicious actor intercepts a data packet in transit and delays it or repeats it at another time.
+
+## Smurf attack.
+
+A network attack performed when an attacker sniffs an authorized user's IP address and flood it with packets.
