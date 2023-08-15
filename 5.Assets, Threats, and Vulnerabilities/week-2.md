@@ -56,6 +56,42 @@ The use of a single secret key to exchange informaiton.
 
 An algorithm that produces a code that can't be decrypted.
 
-
-
 # Authentication, authorization, and accounting
+
+## Access acontrols
+
+Security controls that manage access, authorization, and accountability of information.
+
+## AAA Framework
+
+- Authentication
+- Authorization
+- Accounting
+
+## Factors of authentication
+
+1. Knowledge: something the user knows
+
+2. Ownership: something the user possesses
+
+3. Characteristic: something the user is
+
+## Single sign-on (SSO)
+
+A techonology that combines several different logins into one
+
+## Multi-factor authentication (MFA)
+
+A security measure which requires a user to verify their identity in two or more ways to access a system or network.
+
+## Separation of duties
+
+The principle that users should not be given levels of authorization that would allow them to misuse a system.
+
+## Basic auth
+
+The techonology used to establish a user's request to access a server.
+
+## OAuth
+
+An open-standar authorization protocol that shares designated access between applications.
