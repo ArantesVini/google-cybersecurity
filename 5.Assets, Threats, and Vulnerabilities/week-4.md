@@ -42,6 +42,8 @@ The use of text messages to obtain sensitive information or to impersonate a kno
 
 The exploitation of eletronic voice communication to obtain sensitive information or impersonate a known source
 
+##
+
 # Malware
 
 # Web-based exploits
