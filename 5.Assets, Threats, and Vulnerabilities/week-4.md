@@ -64,8 +64,26 @@ There are different types of malware:
 
 - Botnet: A collection of computers infected by a malware under the control of a single Threat Actor;
 
-- Ransomware: Attack where threat actores encrypt an organization's data and demanda payment to restore access.
+- Ransomware: Attack where threat actores encrypt an organization's data and demanda payment to restore access;
+
+- Cryptojacking: Malware that install software to illegally mine cryptocurrencies.
 
 # Web-based exploits
+
+## Cross-site scripting (XSS)
+
+An injection attack that inserts code into a vulnerable website or web application.
+
+## Reflected XSS attack
+
+An instance when malicious script is sent to a server and activated during the server's response
+
+## Stored XSS attack
+
+An instance when malicious script is injected directly on the server.
+
+## DOM-based XSS attack
+
+An instance when malicious script exists in th webpage a browser loads.
 
 # Threat modeling
