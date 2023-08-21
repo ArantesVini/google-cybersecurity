@@ -42,9 +42,29 @@ The use of text messages to obtain sensitive information or to impersonate a kno
 
 The exploitation of eletronic voice communication to obtain sensitive information or impersonate a known source
 
-##
-
 # Malware
+
+There are different types of malware:
+
+- Virus: Malicious code written to interfere the computer operation;
+
+- Worm: Can duplicate and spread itself across systems on its own;
+
+- Trojan: Looks like a legitimate fiel or program;
+
+- Adware: Legitimate software that is used to display digital ads;
+
+- Spyware: Used to gather and sell information without consent;
+
+- Scareware: Displays fake warnings that appear to come from legitimate comapanies;
+
+- Fileless malware: Use legitimate programs to infect a computer;
+
+- Rootkit: Provide remote administrative access to a computer;
+
+- Botnet: A collection of computers infected by a malware under the control of a single Threat Actor;
+
+- Ransomware: Attack where threat actores encrypt an organization's data and demanda payment to restore access.
 
 # Web-based exploits
 
