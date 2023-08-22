@@ -87,3 +87,29 @@ An instance when malicious script is injected directly on the server.
 An instance when malicious script exists in th webpage a browser loads.
 
 # Threat modeling
+
+The process of identifying assets, their vulnerabilities, and how each is exopsed to threats
+
+## Threat modeling steps
+
+1. Define the scope
+   (The inventory of assets)
+
+2. Identify threats
+   ( Define all potential threat actors)
+
+3. Characterize the environment
+   (Apply the attack mindset to the business)
+
+4. Analyze threats
+   (Examine existing protections and identify gaps)
+
+5. Mitigate Risks
+   (Creation of the defending against threats plans.)
+
+6. Evaluate findings
+   (Documentation of the process)
+
+## PASTA (Process for Attack Simulation and Threat Analysis)
+
+A popular threat modeling framework that's used across many industries
