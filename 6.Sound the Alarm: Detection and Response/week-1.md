@@ -25,3 +25,31 @@ A specialized group of security professional that are trained in incident manage
 - Incident coordinator
 
 # Incident response tools
+
+## Tool types
+
+- Detection and management tools
+- Documentation tools
+- Investigative tools
+
+## Intrusion detection systems (IDS)
+
+An application that monitors system and network activity and produces alerts on possible intrusions
+
+## Intrusion prevention system (IPS)
+
+An application that monitors system activity for intrusions and take action to stop the activity
+
+## Security Information and Event Management (SIEM)
+
+An application that collects and analyzes log data to monitor critical activities in an organization
+
+## SIEM process
+
+1. Collect and aggregate data
+2. Normalize data
+3. Analyze data
+
+## Security orchestration, automation, and response (SOAR)
+
+A collection of applications, tools, and workflows that uses automation to respond to security events
