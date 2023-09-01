@@ -113,3 +113,4 @@ The process of identifying assets, their vulnerabilities, and how each is exopse
 ## PASTA (Process for Attack Simulation and Threat Analysis)
 
 A popular threat modeling framework that's used across many industries
+s
