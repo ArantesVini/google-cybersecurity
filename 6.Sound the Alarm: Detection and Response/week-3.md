@@ -35,7 +35,7 @@ Prioritazing incidents according tot heir level of importance or urgency.
 
 1. Receive and access
 2. Assign priority
-3. Collect and analyse
+3. Collect and analyseß
 
 # Containment
 
@@ -43,10 +43,22 @@ The act of limiting access and preventing additional damage cause by an incident
 
 # Eradication
 
-The compleete removal of the incident elements from all affected systems.
+The compleete removal of the incident elements from all affected systems
 
 # Recovery
 
-Returning affected systems back to normal operations.
+Returning affected systems back to normal operations
 
 # Post-incident actions
+
+The process of reviewing an incident to identify areas for improvement during incident handling
+
+## Question to ask
+
+- What happened?
+- What time did it happen?
+- Who discovered it?
+- How dig it get contained?
+- What were the actions taken for recovery?
+- What could have been done differently?
+  s
