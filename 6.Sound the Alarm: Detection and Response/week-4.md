@@ -35,5 +35,3 @@ A detection method used to find events of interest.
 2. Header: Source and destination IP addresses, protocol, and port numbers.
 
 3. Rule: The rule criteria that must be met for the action to be taken.
-
-# Overview of security information event management (SIEM) tools
